@@ -61,6 +61,7 @@ private:
 };
 
 #include "cinder/app/RendererGl.h"
+#include "cinder/gl/Draw.h"
 #include "cinder/gl/VboMesh.h"
 
 using namespace ci;
